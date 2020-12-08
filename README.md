@@ -1,3 +1,3 @@
-<img alt="GIF" height="300px" src="logo.gif" />
+<img align="middle" alt="GIF" height="300px" src="logo.gif" />
 <h1>XCOPIES</h1>
-<p>My name is copies, This is my repo</p>
+<h3>My name is copies, This is my repo</h3>
